@@ -297,7 +297,7 @@ char t[5]; //ticker
 double i; //increase
 int ndc; // next day count
 struct tickerData *nd; //nextdayreserved
-};
+};//hello world
 struct tickerBucket{
 char t[5]; //ticker
 int dac; //data count
